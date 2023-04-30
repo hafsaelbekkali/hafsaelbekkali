@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/hafsaelbekkali1" target="blank"><img src="https://img.shields.io/twitter/follow/hafsaelbekkali1?logo=twitter&style=for-the-badge" alt="hafsaelbekkali1" /></a> </p> 
 
 
-- 🌱 I’m currently learning **Firebase,mongodb,Java**
+- 🌱 I’m currently learning **C# , .NET , Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hafsaelbekkali](https://github.com/hafsaelbekkali)
 
